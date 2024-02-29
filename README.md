@@ -10,12 +10,16 @@ Github :  https://github.com/arayush841/ATE-CapstoneProject-AyushRaj-ayushra.git
 
 -------------------------------------------------------------------------------------------------------------------------------------
 Problem Statement and Motivation Real-Time Scenario:
- Sporty Shoes has an e-commerce website that has the following existing features in place:  I used https://neemans.com/ for the task.
+ Sporty Shoes has an e-commerce website that has the following existing features in place:  
+ 
+I used https://neemans.com/ for the task.
+
 • Users can view products; I wrote some functionality for that also.
 • For making purchases, user can login and signup for the same.
 • Users can add multiple items to their cart and checkout.
 • Users have a dashboard that lets them edit their profile, view past purchases, and view their cart 
 • Once users do a checkout, the items are cleared from their cart and an order is generated which is stored in their order history The above application is already functional. 
+
 What is needed now is to add a testing layer that will ensure that everything is passed through QA.
 -------------------------------------------------------------------------------------------------------------------------------------
 Task:
