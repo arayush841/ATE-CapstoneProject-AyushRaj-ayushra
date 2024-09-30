@@ -1,14 +1,4 @@
-Automation Testing Capstone Project
 
-Create a Testing Framework for Sporty Shoes Website
-
-Name : Ayush Raj
-
-Email : ayushra@cisco.com
-
-Github :  https://github.com/arayush841/ATE-CapstoneProject-AyushRaj-ayushra.git
-
--------------------------------------------------------------------------------------------------------------------------------------
 Problem Statement and Motivation Real-Time Scenario:
  Sporty Shoes has an e-commerce website that has the following existing features in place:  
  
